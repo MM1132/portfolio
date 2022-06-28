@@ -18,6 +18,12 @@
 
 ![](images/editor3.png)
 
+# [Nastik](https://github.com/MM1132/nastik/)
+
+-   A simple and boring 2d snake game coded in plain `JavaScript`.
+
+![](https://github.com/MM1132/nastik/raw/master/preview-images/nastik-demo.gif)
+
 # [Audit Force](https://github.com/MM1132/Audit-Force)
 
 -   A powerful brute-force tool that exploits the 01 Edu System platform.
